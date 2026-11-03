@@ -17,3 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+<a href="https://open.spotify.com/user/31ky3iu73jmnsjqzghs2vzia2pum">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ky3iu73jmnsjqzghs2vzia2pum" alt="Spotify recently played" width="400" />
+</a>
