@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/nhPCaKfcp70AAAAC/mamoru-oshii-angels-egg.gif" />
+<img src="https://media1.tenor.com/m/nhPCaKfcp70AAAAC/mamoru-oshii-angels-egg.gif" align="center"/>
 
 <p>To become a star you must burn.</p>
 
