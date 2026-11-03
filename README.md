@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/eB0mUpo2_9AAAAAd/%E5%B9%BC%E5%A5%B3%E6%88%A6%E8%A8%98-y%C5%8Djo-senki.gif" />
+<img src="https://i.gifer.com/47tv.gif" />
 
 <p>To become a star you must burn.</p>
 
@@ -15,9 +15,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hadal-11000m/Hadal-11000m/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hadal-11000m/Hadal-11000m/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hadal-11000m/Hadal-11000m/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
