@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img src="https://media1.tenor.com/m/QOPu-A164TIAAAAd/angels-egg-mamoru-oshii.gif" align="center"/>
+  <img src="https://static.wikia.nocookie.net/wario/images/5/58/AshleyMoveIt.gif/revision/latest/scale-to-width-down/1000?cb=20231220025723" align="center"/>
 </div>
 
 <p>To become a star you must burn.</p>
