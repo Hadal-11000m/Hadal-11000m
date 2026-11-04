@@ -17,3 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+<div data-importer="image" align="center">
+  <img src="https://static.wikia.nocookie.net/wario/images/e/e9/AshleyRedG%26W.png/revision/latest?cb=20160305021011" align="center"/>
+</div>
